@@ -51,7 +51,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = "KunalD"
+  name = "RoidsIndia"
   email = ""
   link = ""
 
@@ -296,10 +296,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.social]
     GitHub = ""
     Linkedin = ""
-    Twitter = "https://twitter.com/roidsindia"
-    Instagram = "https://www.instagram.com/roidsindia"
+    Twitter = "roidsindia"
+    Instagram = "roidsindia"
     Facebook = ""
-    Telegram = "https://t.me/roidsindia"
+    Telegram = "roidsindia"
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
